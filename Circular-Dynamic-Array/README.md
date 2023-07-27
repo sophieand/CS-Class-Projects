@@ -1,4 +1,4 @@
-#Circular Dynamic Array
+Circular Dynamic Array
 
 A program that creates a circular dynamic array.
 
